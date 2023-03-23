@@ -1,4 +1,4 @@
-Here's a complete mini game! click the crows before they get to the other side of the screen!
+Here's a complete mini game! Click the crows before they get to the other side of the screen!
 
 [You can make this game too!](https://www.udemy.com/course/code-your-first-game/learn/lecture/2497876#overview)
 
