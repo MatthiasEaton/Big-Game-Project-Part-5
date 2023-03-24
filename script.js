@@ -43,7 +43,7 @@ class Raven {
         if (this.y < 0 || this.y > canvas.height - this.height){
             this.directionY = this.directionY * -1;
         }
-        this.x -= this.directionX;
+        this.x -= this.directionX * 0.9;
         this.y += this.directionY;
         if (this.x < 0 - this.width) this.markedForDeletion = true;
         this.timeSinceFlap += deltaTime;
